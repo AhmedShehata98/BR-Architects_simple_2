@@ -192,7 +192,7 @@ nav ul li a:hover{
 .home .main-img{
     width: inherit;
     height: inherit;
-    background-image: url(/IMG/architect.jpg);
+    background-image: url(../IMG/architect.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
